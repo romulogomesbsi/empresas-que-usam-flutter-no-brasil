@@ -14,6 +14,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
+[CG SISTEMAS](http://www.cgsistemas.com.br) |Campina Grande - PB||Flutter|
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [Dell Lead](http://leadfortaleza.com.br/) | Fortaleza, CE | Flutter |
